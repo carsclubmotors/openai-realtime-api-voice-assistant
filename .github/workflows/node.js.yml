@@ -31,4 +31,4 @@ jobs:
     - run: npm update Cookie
     - run: npm install
     - run: npm run build --if-present
-    - run: npm start
+    - run: npm run
